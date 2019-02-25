@@ -1,0 +1,151 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap */
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+	
+.search_bar{
+	width: 250px;
+	height: auto;
+	border-radius: 5px;
+	margin: 0 auto;
+}
+.search_bar_btn{
+	border-radius: 5px;
+	margin: 0 auto;
+}
+.one-time-pad-1{
+	padding: 5px 0px !important;
+}
+.dynamic-border-LR-to-BT{
+	border-top: 1px solid var(--border-gray);
+	border-bottom: 1px solid var(--border-gray);
+	border-left: none;
+	border-right: none;
+}
+.software-box-1{
+	width: 250px;
+	height: auto;
+	text-align: center;
+	padding: 5px;
+	margin: 10px auto;
+	border-radius: 5px;
+	border: 1px solid var(--border-gray);
+	background-color: white;
+}	
+.software-content{
+	height: auto !important;
+}	
+.footer-policy{
+	display: block;
+	text-align: center;
+}	
+.side-column-area-100{
+	display: block;
+}
+.side-column-img-box{
+	width: 100%;
+	height: 220px !important;
+}
+.side-column-article-box{
+	width: 100%;
+	height: auto !important;
+}	
+.software-responsive-100-box{
+	display: block !important;
+}	
+.software-responsive-100-box-sub{
+	display: block !important;
+}
+.mr1-auto{
+	margin: auto !important;
+}	
+.cus-pad-soft{
+	margin-bottom: 5px !important;
+}	
+.mobail-descripton-text{
+	font-size: 15px;
+	padding-left: 5px !important; 
+	text-align: center !important;
+}
+.text-title-2{
+	font-size: 20px;
+}
+.software-responsive-100-box{
+	height: auto;
+}	
+.software-responsive-100-box-sub{
+	height: auto;
+}
+.main-dow-padding{
+	padding: 0px 20px !important;
+}	
+.lightbox img {
+  	max-width: 70%;
+	max-height: auto;
+}	
+	
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+.search_bar{
+	width: 80%;
+	height: auto;
+}
+.one-time-pad-1{
+	padding: 5px 0px !important;
+}
+.dynamic-border-LR-to-BT{
+	border: none;
+}
+.side-column-article-box{
+	width: 50%;
+	height: auto!important;
+}	
+.software-responsive-100-box-sub{
+	height: auto !important;
+}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	
+.search_bar{
+	width: 90%;
+	height: auto;
+}
+.one-time-pad-1{
+	padding: 0px 25px !important;
+}	
+.side-column-article-box{
+	width: 50%;
+	height: auto!important;
+}		
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+	
+.search_bar{
+	width: 75%;
+	height: auto;
+}
+.side-column-article-box{
+	width: 50%;
+	height: auto!important;
+}		
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	
+.nav-item a{
+	padding: 10px 10px;
+}
+}
