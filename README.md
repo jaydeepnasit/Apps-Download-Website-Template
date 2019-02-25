@@ -1,7 +1,6 @@
 # Apps-Download-Website-Template
 Software, Games and Apps Download Website Full Responsive Template<br>
 <h2>Home Page :-</h2>
-![home-page](https://user-images.githubusercontent.com/26626045/53333642-4f268b80-38ab-11e9-9427-f8dcd9efdbd7.png)
 
 <b>Tested Browsers :- </b>
 
@@ -16,3 +15,4 @@ Software, Games and Apps Download Website Full Responsive Template<br>
 9.brave browser</br>
 10.PhantomJS</br>
 
+![home-page](https://user-images.githubusercontent.com/26626045/53333642-4f268b80-38ab-11e9-9427-f8dcd9efdbd7.png)
